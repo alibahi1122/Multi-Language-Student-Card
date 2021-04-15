@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Studentenausweis</string>
+    <string name="name">Ali Raza</string>
+    <string name="aridNo">18-ARID-3014</string>
+    <string name="degree">" BS-Software Engineering (Abend)"</string>
+</resources>
